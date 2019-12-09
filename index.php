@@ -1,0 +1,1 @@
+<img src="./thumbnail.php?img=./png.png&w=200&h=200&q=100">
